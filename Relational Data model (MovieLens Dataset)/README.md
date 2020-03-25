@@ -7,8 +7,8 @@ We are provided some relational data and illustrating some exciting insights hid
 The MovieLens dataset (https://grouplens.org/datasets/movielens/) is a publicly-released dataset of user movie ratings, built with a relational schema.
 
 ## Packages and Software used :computer:
-Python
-matplotlib
+Python <br>
+matplotlib <br>
 Tableau
 
 ## Insights :pencil:

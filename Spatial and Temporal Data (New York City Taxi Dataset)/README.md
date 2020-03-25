@@ -8,8 +8,8 @@ We are provided with spatio-temporal data and illustrate some exciting insights 
 The New York City Taxi dataset (https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq) is a publicly-released dataset of taxi trips in New York City, with a strong spatio-temporal aspect. We also need the taxi zone maps, provided at http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml, in order to interpret the spatial attributes.
 
 ## Packages and Software used :computer:
-Python
-matplotlib
+Python <br>
+matplotlib <br>
 Tableau
 
 ## Insights :pencil:

@@ -5,13 +5,13 @@ We have a broad understanding and a solid toolkit for four of the most fundament
 
 ## Data :cloud:
 We are provided with dataset that is an archived data dump of an entire StackExchange community (incidentally, the one on Data Science). StackExchange is a question and answer (Q&A) forum, where users contribute "posts" (i.e., questions and answers) which they upvote. There is a tagging system to organise posts and a badge system to incentivise users.
-
+<br>
 The data dump contains a broad selection of the elements we have been looking at previously: the posts themselves are (marked up) temporal text, with revision histories; the votes resemble our previous MovieLens dataset; there are myriad opportunities to construct graph representations of elements of the data. We are unrestrained! The data itself is described in the following readme: https://ia800107.us.archive.org/27/items/stackexchange/readme.txt.
 
 ## Packages and Software used :computer:
-Python
-matplotlib
-Neo4j
+Python <br>
+matplotlib <br>
+Neo4j <br>
 Tableau
 
 ## Insights :pencil:
