@@ -8,7 +8,7 @@ The MovieLens dataset (https://grouplens.org/datasets/movielens/) is a publicly-
 
 ## Insights :pencil:
 
-![ScreenShot 1](Visualizations/Genres trend over the years.png)
+![ScreenShot 1](Visualizations/Genres_trend_over_the_years.png)
 
 ![ScreenShot 2](Visualizations/movie released over the years.png)
 
