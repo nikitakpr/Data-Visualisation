@@ -27,7 +27,3 @@ Tableau <br>
 ![ScreenShot 2](ZReadme_img/Influential_subreddits.png)
 
 ![ScreenShot 4](ZReadme_img/Heat_map_showing_similarity_measure_among_users.png)
-
-![ScreenShot 5](ZReadme_img/Insight#3_2.png)
-
-![ScreenShot 6](ZReadme_img/Insight#5.png)
